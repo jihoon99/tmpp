@@ -1,0 +1,38 @@
+crawling PPT
+
+google : get, post 차이
+
+https://noahlogs.tistory.com/35
+get_post 차이
+
+https://noahlogs.tistory.com/34
+http란
+
+
+크롤링 request post 장단점
+
+https://blackaaron.tistory.com/10
+get_Post방식 차이 및 장단점
+
+https://surgach.tistory.com/6
+post방식 동적 크롤링 실습
+https://surgach.tistory.com/7?category=722659
+
+https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
+http://www.incodom.kr/RestFul_API
+
+RESTful, REST API
+
+restfull 정의
+
+python request
+
+payloads
+http://melonicedlatte.com/web/2020/01/14/205200.html
+request payload란
+https://okky.kr/article/291237
+https://sbell92.tistory.com/86
+https://hanamon.kr/네트워크-http-페이로드-payload란/
+
+https://seong6496.tistory.com/41
+request, beautifulSoup, selenium
